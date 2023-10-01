@@ -1,6 +1,5 @@
 # Netflix-Dataset-Insights
 
-
 ## Project Description
 
 This project involves an in-depth analysis of a Netflix dataset. The dataset includes information about the shows available on Netflix as of 2021. The data has been analyzed using various data analysis and visualization techniques to extract meaningful insights.
